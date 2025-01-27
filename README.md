@@ -102,9 +102,13 @@ The app stores previous search queries in the browser's local storage. Users can
 The app is responsive and adjusts its layout to ensure the UI is user-friendly on both desktop and mobile devices.
 
 ## Screenshots
-Main Weather Screen:
-![Main Weather Screen](assets/main_weather_screen.png)
+## Screenshots
 
-5-Day Forecast:
+### Main Weather Screen:
+![Main Weather Screen](../weather_app/src/assets/main_weather_screen.png)
 
-Search History:
+### 5-Day Forecast:
+![5-Day Forecast](../weather_app/src/assets/5Day_forecast.png)
+
+### Search History:
+![Search History](../weather_app/src/assets/history.png)
