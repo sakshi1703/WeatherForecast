@@ -103,6 +103,7 @@ The app is responsive and adjusts its layout to ensure the UI is user-friendly o
 
 ## Screenshots
 Main Weather Screen:
+![Main Weather Screen](../weather_app/src/assets/main_weather_screen.png)
 
 5-Day Forecast:
 
