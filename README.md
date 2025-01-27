@@ -119,7 +119,7 @@ The app is responsive and adjusts its layout to ensure the UI is user-friendly o
 ## Screenshots
 
 ### Main Weather Screen:
-<img src="https://github.com/sakshi1703/WeatherForecast/blob/main/weather_app/src/assets/main_weather_screen.png" width="600" height="400" />
+<img src="https://github.com/sakshi1703/WeatherForecast/blob/main/weather_app/src/assets/main_weather_screen.png" width="300" height="300" />
 
 
 ### 5-Day Forecast:
