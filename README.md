@@ -1,6 +1,17 @@
 # WeatherForecast
 # Weather App
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Live Demo](#live-demo)
+5. [Installation](#installation)
+6. [Features Walkthorugh](#features-walkthrough)
+7. [Code Structure](#code-structure)
+8. [How app work](#how-the-app-works)
+9. [screenshots](#screenshots)
+
 ## Introduction
 The Weather App allows users to check the current weather and forecast for a given city or their current location. The app fetches weather data from the OpenWeatherMap API and displays it in a user-friendly interface. Users can view real-time weather information, including temperature, humidity, and weather conditions, along with a 5-day forecast.
 
@@ -101,7 +112,8 @@ The app stores previous search queries in the browser's local storage. Users can
 **Mobile-First Design**
 The app is responsive and adjusts its layout to ensure the UI is user-friendly on both desktop and mobile devices.
 
-## Screenshots
+---
+
 ## Screenshots
 
 ### Main Weather Screen:
@@ -112,3 +124,5 @@ The app is responsive and adjusts its layout to ensure the UI is user-friendly o
 
 ### Search History:
 ![Search History](https://github.com/sakshi1703/WeatherForecast/blob/main/weather_app/src/assets/history.png)
+
+---
