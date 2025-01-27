@@ -12,6 +12,8 @@
 8. [How app work](#how-the-app-works)
 9. [screenshots](#screenshots)
 
+---
+
 ## Introduction
 The Weather App allows users to check the current weather and forecast for a given city or their current location. The app fetches weather data from the OpenWeatherMap API and displays it in a user-friendly interface. Users can view real-time weather information, including temperature, humidity, and weather conditions, along with a 5-day forecast.
 
