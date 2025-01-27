@@ -101,17 +101,17 @@ weather-app/
 
 ## How the App Works
 
-**Weather Fetching**
+- **Weather Fetching**
 When a user searches for a city or uses their current location, the app makes an API request to OpenWeatherMap using the provided API key.
 The current weather and forecast data are then displayed in the app.
 
-**Unit Conversion**
+- **Unit Conversion**
 Users can toggle between Celsius and Fahrenheit. This is done by adjusting the temperature units used in the API request and updating the UI accordingly.
 
-**Search History**
+- **Search History**
 The app stores previous search queries in the browser's local storage. Users can click on an item from the history to quickly view past weather data.
 
-**Mobile-First Design**
+- **Mobile-First Design**
 The app is responsive and adjusts its layout to ensure the UI is user-friendly on both desktop and mobile devices.
 
 ---
